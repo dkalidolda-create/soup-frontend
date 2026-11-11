@@ -5,10 +5,11 @@
 
 [1m[30m[46m RUN [49m[39m[22m [36mv5.1.0 [39m[90m/Users/damilya1209icloud.com/Library/Mobile Documents/com~apple~CloudDocs/untitled folder/soup[39m
 
- [32m✓[39m src/data.test.ts [2m([22m[2m12 tests[22m[2m)[22m[32m 138[2mms[22m[39m
+ [32m✓[39m src/data.test.ts [2m([22m[2m12 tests[22m[2m)[22m[32m 82[2mms[22m[39m
+ [32m✓[39m src/dashboard.test.ts [2m([22m[2m5 tests[22m[2m)[22m[32m 98[2mms[22m[39m
 
-[2m Test Files [22m [1m[32m1 passed[39m[22m[90m (1)[39m
-[2m      Tests [22m [1m[32m12 passed[39m[22m[90m (12)[39m
-[2m   Start at [22m 21:14:58
-[2m   Duration [22m 264ms[2m (tests 87%, import 6%, transform 4%, worker 2%)[22m
+[2m Test Files [22m [1m[32m2 passed[39m[22m[90m (2)[39m
+[2m      Tests [22m [1m[32m17 passed[39m[22m[90m (17)[39m
+[2m   Start at [22m 22:43:15
+[2m   Duration [22m 164ms[2m (tests 89%, import 5%, transform 4%, worker 2%)[22m
 
